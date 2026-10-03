@@ -119,5 +119,5 @@ Based on the dashboard analysis:
 
 Add screenshots of the Power BI dashboard here.
 
-![Meta Ad Performance Dashboard](dashboard.png)
+![Meta Ad Performance Dashboard](Dashboard.png)
 
