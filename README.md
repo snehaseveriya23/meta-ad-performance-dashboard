@@ -119,14 +119,5 @@ Based on the dashboard analysis:
 
 Add screenshots of the Power BI dashboard here.
 
-![Dashboard Preview](images/dashboard.png)
+![Meta Ad Performance Dashboard](dashboard.png)
 
-## 📁 Project Files
-
-```text
-meta-ad-performance-dashboard/
-│
-├── Meta Ad Performance Dashboard.pbix
-├── images/
-│   └── dashboard.png
-└── README.md
