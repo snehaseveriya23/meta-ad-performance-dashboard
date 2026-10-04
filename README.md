@@ -121,3 +121,10 @@ Add screenshots of the Power BI dashboard here.
 
 ![Meta Ad Performance Dashboard](Dashboard.png)
 
+![KPI Metrics](KPI.png)
+
+![Slicers](Slicers.png)
+
+![Charts 1](Charts1.png)
+
+![Charts 2](Charts2.png)
